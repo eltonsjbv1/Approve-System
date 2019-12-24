@@ -1,0 +1,24 @@
+[14-May-2019 12:51:26 UTC] PHP Warning:  Use of undefined constant Notiflix - assumed 'Notiflix' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 12:51:26 UTC] PHP Warning:  Use of undefined constant Report - assumed 'Report' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 12:51:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Success() in /home3/approv23/public_html/envia.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:03 UTC] PHP Warning:  Use of undefined constant Notiflix - assumed 'Notiflix' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:03 UTC] PHP Warning:  Use of undefined constant Report - assumed 'Report' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Success() in /home3/approv23/public_html/envia.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:37 UTC] PHP Warning:  Use of undefined constant Notiflix - assumed 'Notiflix' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:37 UTC] PHP Warning:  Use of undefined constant Report - assumed 'Report' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:20:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Success() in /home3/approv23/public_html/envia.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:23:18 UTC] PHP Warning:  Use of undefined constant Notiflix - assumed 'Notiflix' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:23:18 UTC] PHP Warning:  Use of undefined constant Report - assumed 'Report' (this will throw an Error in a future version of PHP) in /home3/approv23/public_html/envia.php on line 26
+[14-May-2019 20:23:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Success() in /home3/approv23/public_html/envia.php:26
+Stack trace:
+#0 {main}
+  thrown in /home3/approv23/public_html/envia.php on line 26
